@@ -1,0 +1,45 @@
+{
+  "streams": [
+    {
+      "title": "Programming Stream",
+      "description": "This is a programming stream.",
+      "userID": "10566816090123133176417",
+      "id": 2
+    },
+    {
+      "title": "Laravel",
+      "description": "This is a laravel stream",
+      "userID": "105668160909511236417",
+      "id": 4
+    },
+    {
+      "title": "Sample Stream",
+      "description": "This is a sample stream",
+      "userID": "105668160912312176417",
+      "id": 6
+    },
+    {
+      "title": "Patch Request",
+      "description": "this is another sample stream",
+      "userID": "105668160909512176417",
+      "id": 7
+    },
+    {
+      "title": "Please work",
+      "description": "please wokrkkrkrk",
+      "userID": "105668160909512376417",
+      "id": 8
+    },
+    {
+      "title": "Browser History",
+      "description": "Testing custom browser history",
+      "userID": "105668160909512176417",
+      "id": 10
+    },
+    {
+      "title": "Stream Edit Refactor",
+      "description": "testing the refactored stream edit",
+      "id": 11
+    }
+  ]
+}
